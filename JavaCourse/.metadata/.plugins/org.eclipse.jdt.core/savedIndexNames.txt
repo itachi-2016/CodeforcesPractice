@@ -1,3 +1,0 @@
-INDEX VERSION 1.130+/home/itachi_2016/Desktop/JavaCourse/.metadata/.plugins/org.eclipse.jdt.core
-1676463451.index
-2873549434.index

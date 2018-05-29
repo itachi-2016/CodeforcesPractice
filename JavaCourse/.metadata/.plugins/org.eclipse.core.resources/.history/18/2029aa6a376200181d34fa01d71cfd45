@@ -1,6 +1,0 @@
-
-public class PracticeProgram {
-	void print(int taklo) {
-		System.out.printf("Kahaan taklo che %d",taklo);
-	}
-}
