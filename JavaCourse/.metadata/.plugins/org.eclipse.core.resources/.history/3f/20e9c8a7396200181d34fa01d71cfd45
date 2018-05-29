@@ -1,0 +1,9 @@
+public class tatticoder {
+
+	public static void main(String[] args) {
+	
+		PracticeProgram bhangisur = new PracticeProgram();
+		bhangisur.print(7);
+	}
+
+}
