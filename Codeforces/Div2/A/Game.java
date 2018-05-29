@@ -11,6 +11,11 @@ public class Main {
 			arr[i] = sc.nextInt();
 		}
 		Arrays.sort(arr);
-		System.out.println(arr[n / 2]);
+		int ans;
+		if(n%2==0)
+			ans = n/2-1;
+		else
+			ans = n/2;
+		System.out.println(arr[ans]);
 	}
 }
