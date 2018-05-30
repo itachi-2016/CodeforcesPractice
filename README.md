@@ -1,3 +1,3 @@
 # CompetitiveProgramming
 
-Hi there! I am Rachit Parikh and competitive programming is my hobby. I have solved some problems from sites like Codeforces, AtCoder, Codechef and Topcoder. Thank you for visiting!
+My name is Rachit and I am enthusiastic about competitive programming. This repository contains some of the problems solved by me on Codeforces. Thanks for visiting and happy coding!
